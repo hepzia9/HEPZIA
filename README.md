@@ -34,3 +34,4 @@ The project can be developed and deployed using modern web-development tools and
 Contact
 
 For questions, collaboration, or interest in the HEPZIA project, please contact the project owner.
+epushiedelight11@gmail.com
